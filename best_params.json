@@ -1,0 +1,1 @@
+{"uncertainty_samples": 0, "changepoint_prior_scale": 0.3, "seasonality_prior_scale": 0.2, "holidays_prior_scale": 0.2, "yearly_seasonality": true, "weekly_seasonality": true, "daily_seasonality": false, "changepoint_range": 0.95, "growth": "linear", "seasonality_mode": "additive"}
